@@ -1,5 +1,5 @@
 # 2022s-data-communication
-2022-1 데이터통신 과제 아카이빙 레포
+2022-1 data communication projects archive
 
 ## HW1: Simple Socket Programming
 
